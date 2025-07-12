@@ -99,8 +99,8 @@ This project builds a predictive model using the famous Titanic dataset. It feat
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/titanic-survival-prediction.git
-    cd titanic-survival-prediction
+    git clone https://github.com/Deba00407/Titanic-Survival
+    cd Titanic-Survival
     ```
 
 2. Install dependencies:
